@@ -26,5 +26,5 @@ In addition, we will explore the use of data visualization techniques common in 
 ![](https://cdn-images-1.medium.com/max/800/1*UJxVqLnbSj42eRhasKeLOA.png)
 
 
-[*Data Set for the project is available at*](https://www.kaggle.com/mlg-ulb/creditcardfraud/downloads/creditcardfraud.zip/3) 
+[*Data Set for the project*](https://www.kaggle.com/mlg-ulb/creditcardfraud/downloads/creditcardfraud.zip/3) 
 
